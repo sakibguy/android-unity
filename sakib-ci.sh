@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
 
-git commit -m "obstacle 46: LUCKY7, java android"
+git commit -m "obstacle 47: 3.SLOT.GAME, unity android"
 
 ############
 # Step: 05 #
