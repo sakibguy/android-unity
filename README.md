@@ -15,3 +15,5 @@ gamename.gif
 > gamename.gif
 ## GAME 52: WORLDOFHOCKEY
 > gamename.gif
+## GAME 53: TRIGON
+> gamename.gif
