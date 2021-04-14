@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
 
-git commit -m "obstacle 56: TOPBALL"
+git commit -m "obstacle 57: FLIPIT"
 
 ############
 # Step: 05 #
