@@ -25,3 +25,5 @@ gamename.gif
 > gamename.gif
 ## GAME 57: FLIPIT
 > gamename.gif
+## GAME 58: SPEEDYFOOTBALLER
+> gamename.gif
