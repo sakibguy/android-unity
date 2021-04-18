@@ -29,3 +29,5 @@ gamename.gif
 > gamename.gif
 ## GAME 59: GOOLIVER
 > gamename.gif
+## GAME 60: SLICEIT
+> gamename.gif
