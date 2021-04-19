@@ -31,3 +31,5 @@ gamename.gif
 > gamename.gif
 ## GAME 60: SLICEIT
 > gamename.gif
+## GAME 61: FOOTBALLCHALLANGE
+> gamename.gif
