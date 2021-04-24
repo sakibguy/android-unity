@@ -37,3 +37,5 @@ gamename.gif
 > gamename.gif
 ## GAME 63: KNIVESOUT
 > gamename.gif
+## GAME 64: COWBOY
+> gamename.gif
