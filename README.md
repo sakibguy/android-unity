@@ -43,3 +43,5 @@ gamename.gif
 > gamename.gif
 ## GAME 66: SOCCERSHOOTER
 > gamename.gif
+## GAME 67: JUMPJUMPNINJA
+> gamename.gif
