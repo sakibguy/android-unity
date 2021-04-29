@@ -41,3 +41,5 @@ gamename.gif
 > gamename.gif
 ## GAME 65: SHOOTING
 > gamename.gif
+## GAME 66: SOCCERSHOOTER
+> gamename.gif
