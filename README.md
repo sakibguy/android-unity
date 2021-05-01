@@ -47,3 +47,5 @@ gamename.gif
 > gamename.gif
 ## GAME 68: THEIMPOSSIBLERACE
 > gamename.gif
+## GAME 69: TRYTOSURVIVE
+> gamename.gif
