@@ -54,6 +54,8 @@ gamename.gif
 > gamename.gif
 ## GAME 71: FIREFIGHTERRESCUE
 > gamename.gif
+## GAME 72: COLORBALANCE
+> gamename.gif
 
 # CUSTOMERS
 ## 1- MAKEAPP (RUSSIAN GAME INDUSTRY)
