@@ -56,6 +56,8 @@ gamename.gif
 > gamename.gif
 ## GAME 72: COLORBALANCE
 > gamename.gif
+## GAME 73: ONFIRE
+> gamename.gif
 
 # CUSTOMERS
 ## 1- MAKEAPP (RUSSIAN GAME INDUSTRY)
