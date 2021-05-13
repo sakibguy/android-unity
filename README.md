@@ -60,6 +60,8 @@ gamename.gif
 > gamename.gif
 ## GAME 74: TRIPPLEBASKETBALL
 > gamename.gif
+## GAME 75: LIFEBUOYRIDE
+> gamename.gif
 
 # CUSTOMERS
 ## 1- MAKEAPP (RUSSIAN GAME INDUSTRY)
