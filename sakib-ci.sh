@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
 
-git commit -m "gamename.gif"
+git commit -m "obstacle 79: NINJARUN"
 
 ############
 # Step: 05 #
