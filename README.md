@@ -68,7 +68,7 @@ gamename.gif
 > gamename.gif
 ## GAME 78: TOWEROFMADNESS
 > gamename.gif
-## GAME 79: NINJARUN
+## GAME 79: FALLINGFOOTBALL
 > gamename.gif
 
 # CUSTOMERS
