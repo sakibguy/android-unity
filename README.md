@@ -117,10 +117,10 @@ gamename.gif
 ## GAME 101: BIRDYFLOW
 > gamename.gif
 
-# 1-CASHFORAPP
-## GAME 1: RazorRoad_Dev_280521
+# 2-CASHFORAPP
+## game 1: RazorRoad_Dev_280521
 > gamename.gif
-## GAME 2: JumpDunker_Dev_280521
+## game 2: JumpDunker_Dev_280521
 > gamename.gif
 
 # CUSTOMERS
