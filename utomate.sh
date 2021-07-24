@@ -34,7 +34,7 @@ git config --global user.name "sakib-rahman-bangladesh"
 # Step: 02 #
 ############
 
-echo [ -----GO---- ]  Initializing a new Git repo for this project.
+echo [ -----GO----- ]  Initializing a new Git repo for this project.
 echo
 git init
 
@@ -67,7 +67,7 @@ echo
 ## new-iop-apps: [ok] classify 10k images
 ## obstacle 122:
 
-git commit -m "----GO----"
+git commit -m "-----GO-----"
 
 ############
 # Step: 05 #
@@ -85,7 +85,7 @@ git remote -v
 
 # Change your remote's URL from SSH to HTTPS with the git remote set-url command.
 echo
-echo [ ----GO---- ]  Updating remote URL.
+echo [ -----GO----- ]  Updating remote URL.
 
 git remote set-url origin https://github.com/sakib-rahman-bangladesh/unity2d-games.git
 
@@ -94,7 +94,7 @@ git remote set-url origin https://github.com/sakib-rahman-bangladesh/unity2d-gam
 ############
 
 # Verify that the remote URL has changed.
-echo [ ----GO---- ]  Verifying remote URL.
+echo [ -----GO----- ]  Verifying remote URL.
 echo
 git remote -v
 
