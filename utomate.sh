@@ -65,9 +65,8 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
-## obstacle 122:
 
-git commit -m "fix sn"
+git commit -m "obstacle 123: JEDITRAINING"
 
 ############
 # Step: 05 #
