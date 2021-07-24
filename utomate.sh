@@ -67,7 +67,7 @@ echo
 ## new-iop-apps: [ok] classify 10k images
 ## obstacle 122:
 
-git commit -m "-----GO-----"
+git commit -m "fix sn"
 
 ############
 # Step: 05 #
