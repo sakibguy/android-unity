@@ -23,7 +23,7 @@
 ############
 
 echo
-echo [ Done ]  Initializing who am I.
+echo [ -----GO----- ]  Initializing who am I.
 
 git config --global user.email "sakib.rahman.0000@gmail.com"
 git config --global user.name "sakib-rahman-bangladesh"
@@ -34,7 +34,7 @@ git config --global user.name "sakib-rahman-bangladesh"
 # Step: 02 #
 ############
 
-echo [ Done ]  Initializing a new Git repo for this project.
+echo [ -----GO---- ]  Initializing a new Git repo for this project.
 echo
 git init
 
@@ -44,7 +44,7 @@ git init
 ############
 
 echo
-echo [ Done ]  Saving changes to the repository.
+echo [ -----GO----- ]  Saving changes to the repository.
 git add .
 
 
@@ -52,7 +52,7 @@ git add .
 # Step: 04 #
 ############
 
-echo [ Done ]  Committing...
+echo [ -----GO----- ]  Committing...
 echo
 #############################
 ## follow up simple commit ##
@@ -65,8 +65,9 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
+## obstacle 122:
 
-git commit -m "obstacle 122: BITCOINGOESTOTHETOP"
+git commit -m "----GO----"
 
 ############
 # Step: 05 #
@@ -74,7 +75,7 @@ git commit -m "obstacle 122: BITCOINGOESTOTHETOP"
 
 # List your existing remotes in order to get the name of the remote you want to change.
 echo
-echo [ Done ]  checking remote origin.
+echo [ -----GO----- ]  checking remote origin.
 echo
 git remote -v
 
@@ -84,7 +85,7 @@ git remote -v
 
 # Change your remote's URL from SSH to HTTPS with the git remote set-url command.
 echo
-echo [ Done ]  Updating remote URL.
+echo [ ----GO---- ]  Updating remote URL.
 
 git remote set-url origin https://github.com/sakib-rahman-bangladesh/unity2d-games.git
 
@@ -93,7 +94,7 @@ git remote set-url origin https://github.com/sakib-rahman-bangladesh/unity2d-gam
 ############
 
 # Verify that the remote URL has changed.
-echo [ Done ]  Verifying remote URL.
+echo [ ----GO---- ]  Verifying remote URL.
 echo
 git remote -v
 
