@@ -1,4 +1,4 @@
-# UNITY wOrK 197 (DEV: 177, REBUILT: 20)
+# UNITY wOrK 198 (DEV: 178, REBUILT: 20)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: ARCHER 
@@ -242,6 +242,8 @@ gamename.gif
 > [design](https://www.figma.com/file/yMjhihDT5TRxlgYO7tf7R6/Double-Jumping?type=design&node-id=0-1&t=z5kMQ5naF07lK1OO-0)
 ## GAME 166: NEUTRALIZEBRAIN
 > [design](https://www.figma.com/file/c9YxCSdmQzzgWsXeRuEqe4/Neutralize-Brain?type=design&node-id=0-1&mode=design&t=DjEewoGUY6QaczVq-0)
+## GAME 167: CHESSMASTER
+> [design](https://www.figma.com/file/AGBR4ldlekLp2VwMz5kGw3/Chess-Master?type=design&node-id=0-1&t=ZqiP5aszgL8kdMxL-0)
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: WATERPASS
